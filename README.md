@@ -1,2 +1,2 @@
-# daily-algorithm
-每天一道算法题  / One arithmetic problem every day
+# daily-interview
+每天一道面试题  / One interview question every day
