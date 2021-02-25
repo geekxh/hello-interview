@@ -4,7 +4,7 @@
   "description": "Algorithms and data-structures implemented on JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
